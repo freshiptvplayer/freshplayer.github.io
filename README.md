@@ -2,7 +2,7 @@
 
 **Last Updated:** June 2026
 
-This privacy policy governs your use of the mobile application **Free IPTV Player** (hereafter referred to as "the Application") for mobile devices, which was created by **Free Iptv Player Dev Team** (hereafter referred to as "the Developer").
+This privacy policy governs your use of the mobile application **Fresh Player** (hereafter referred to as "the Application") for mobile devices, which was created by **Fresh Player Dev Team** (hereafter referred to as "the Developer").
 
 ---
 
