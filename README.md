@@ -48,7 +48,7 @@ You can manage or opt-out of personalized advertising directly through your Andr
 
 ## 4. Children’s Privacy
 
-The Application does not address anyone under the age of 13. The Developer does not knowingly collect personally identifiable information from children under 13. If it is discovered that a child under 13 has provided personal information, it will be deleted from any temporary logs immediately.
+The Application does not address anyone under the age of 13.  The Developer does not knowingly collect personally identifiable information from children under 13. If it is discovered that a child under 13 has provided personal information, it will be deleted from any temporary logs immediately.
 
 ---
 
